@@ -7,7 +7,7 @@ about:
   head: a12b72e
   archived: false
   latestVersion: v1.1.2
-  collectedAt: 2026-09-04T19:23:09Z
+  collectedAt: 2026-09-04T21:14:08Z
 timeline:
   created: 2025-05-25
   lastCommit: 2025-09-16
@@ -80,5 +80,33 @@ total:
   openIssue: 29
   commit: 18
 ---
+path: /home/runner/.x-repo/github.com/ZeroSumQuant/claude-conversation-extractor
+collectedAt: 2026-09-04T21:14:12Z
+loc:
+  Python:
+    code: 2506
+    comments: 261
+    blanks: 478
+    files: 12
+  Toml:
+    code: 59
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 747
+    blanks: 283
+    files: 7
+  Text:
+    code: 0
+    comments: 15
+    blanks: 1
+    files: 3
+total:
+  code: 2697
+  comments: 1130
+  blanks: 830
+  files: 23
 ---
 
