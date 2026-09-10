@@ -4,13 +4,24 @@
 
 Extract clean conversation logs from Claude Code's internal storage
 
-![claude-conversation-extractor](https://repo.x-cmd.io/claude-conversation-extractor.svg)
+![claude-conversation-extractor](https://repo.x-cmd.io/claude-conversation-extractor.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install claude-conversation-extractor
 ```
+
+## 代码洞察
+
+合计: **2,565** 行代码（覆盖前 5 种语言、共 **23** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 2,506 | 261 | 478 | 12 |
+| Toml | 59 | 0 | 6 | 1 |
+| Markdown | 0 | 747 | 283 | 7 |
+| Text | 0 | 15 | 1 | 3 |
 
 ## 源代码
 
@@ -22,7 +33,6 @@ x install claude-conversation-extractor
 
 - **最新版本**: `v1.1.2` (2025-09-16)
 - **最近提交**: 2025-09-16
-- **发布时间**: 2025-09-16T00:24:40Z
 
 ## 流行度
 
@@ -37,19 +47,11 @@ x install claude-conversation-extractor
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 2 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 3 | 0 | 3 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 5 | 0 | 6 | 0 |
 | 360d | 2025-09-15 | 1 | 0 | 14 | 0 | 9 | 0 |
-
-## 代码规模
-
-合计: **2,565** 行代码（覆盖前 5 种语言、共 **23** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 2,506 | 261 | 478 | 12 |
-| Toml | 59 | 0 | 6 | 1 |
-| Markdown | 0 | 747 | 283 | 7 |
-| Text | 0 | 15 | 1 | 3 |
+| last720d | 2024-09-20 | 3 | 5 | 14 | 7 | 29 | 18 |
 
 ## 改进这些数据
 
@@ -60,4 +62,4 @@ claude-conversation-extractor 的安装元数据由 [x-cmd/install](https://gith
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:07:45Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:58:47Z._
