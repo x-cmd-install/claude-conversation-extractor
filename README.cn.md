@@ -36,7 +36,7 @@ x install claude-conversation-extractor
 
 ## 流行度
 
-- **Star**: 667 · **Fork**: 90 · **开放 issue**: 36 · **贡献者**: 2
+- **Star**: 668 · **Fork**: 90 · **开放 issue**: 36 · **贡献者**: 2
 
 ## 累计统计
 
@@ -62,4 +62,4 @@ claude-conversation-extractor 的安装元数据由 [x-cmd/install](https://gith
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T06:07:29Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T18:53:29Z._
