@@ -36,22 +36,22 @@ Total: **2,565** lines of code across **23** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 684 · **Forks**: 92 · **Open issues**: 37 · **Contributors**: 2
+- **Stars**: 684 · **Forks**: 93 · **Open issues**: 40 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 5 · **Open PRs**: 14 · **Closed issues**: 7 · **Open issues**: 30 · **Commits**: 18
+- **Releases**: 3 · **Merged PRs**: 5 · **Open PRs**: 15 · **Closed issues**: 7 · **Open issues**: 33 · **Commits**: 18
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-18 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-19 | 0 | 0 | 1 | 0 | 3 | 0 |
-| last180d | 2026-04-20 | 0 | 0 | 4 | 0 | 7 | 0 |
-| 360d | 2025-10-22 | 0 | 0 | 13 | 0 | 10 | 0 |
-| last720d | 2024-10-27 | 3 | 5 | 14 | 7 | 30 | 18 |
+| 30d | 2026-09-18 | 0 | 0 | 1 | 0 | 4 | 0 |
+| last60d | 2026-08-19 | 0 | 0 | 1 | 0 | 4 | 0 |
+| 90d | 2026-07-20 | 0 | 0 | 2 | 0 | 4 | 0 |
+| last180d | 2026-04-21 | 0 | 0 | 5 | 0 | 10 | 0 |
+| 360d | 2025-10-23 | 0 | 0 | 14 | 0 | 13 | 0 |
+| last720d | 2024-10-28 | 3 | 5 | 15 | 7 | 33 | 18 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for claude-conversation-extractor lives in the [x-cmd/install](
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:20:14Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:35:54Z._
